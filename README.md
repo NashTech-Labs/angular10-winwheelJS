@@ -1,6 +1,6 @@
 # Angular10WinwheelJS
 
-This project is a boilerplate for the using the WinWheelJS library in angular. The App component is configured with the wheel, anyone can refactor it to use it in any way he/she wants.
+This project is a boilerplate for using the WinWheelJS library in angular. The App component is configured with the wheel, anyone can refactor it, to use it in any way he/she wants.
 The project is generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
 # Packages used
