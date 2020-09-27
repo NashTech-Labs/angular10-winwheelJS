@@ -26,7 +26,11 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/gsap/src/minified/TimelineMax.min.js",
+              "node_modules/gsap/src/minified/TweenMax.min.js",
+              "src/assets/JS/Winwheel.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -119,6 +123,7 @@
           }
         }
       }
-    }},
+    }
+  },
   "defaultProject": "angular10-winwheelJS"
 }

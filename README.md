@@ -1,6 +1,11 @@
 # Angular10WinwheelJS
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
+This project is a boilerplate for the using the WinWheelJS library in angular. The App component is configured with the wheel, anyone can refactor it to use it in any way he/she wants.
+The project is generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
+
+# Packages used
+- WinWheelJS version 2.8
+- GSAP 2.1.3
 
 ## Development server
 
@@ -25,4 +30,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# angular10-winwheelJS
